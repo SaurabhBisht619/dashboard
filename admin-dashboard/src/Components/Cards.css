@@ -1,0 +1,14 @@
+.card{
+    background-color: rgb(184, 242, 242);
+    width: 80vw;
+    height: 6vh;
+    margin: 1vh;
+    padding: 10px;
+    display: inline-block;
+    word-spacing: 10px;
+    text-align: left;
+}
+
+span{
+    margin-right: 30px;
+}
